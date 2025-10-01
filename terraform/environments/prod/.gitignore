@@ -1,9 +1,0 @@
-
-# Credentials - NEVER COMMIT!
-~/strava-credentials.txt
-~/gcp-service-account.json
-*.json
-*.tfvars
-.terraform/
-*.tfstate
-*.tfstate.*
